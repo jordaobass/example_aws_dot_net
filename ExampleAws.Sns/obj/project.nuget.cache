@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFBM1ZQWx3if0V6eiDUAx77FIe6iCHr9p5Bfz6pT1lag1LLNfDeqpb7EPpgxrav+wu5eq/XpKphRH+EGaqzi/A==",
+  "success": true,
+  "projectFilePath": "P:\\PROJETOS\\NEXTTAG\\exempleAws\\ExampleAws.Sns\\ExampleAws.Sns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jon\\.nuget\\packages\\awssdk.core\\3.7.304.5\\awssdk.core.3.7.304.5.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.301.43\\awssdk.simplenotificationservice.3.7.301.43.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jon\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

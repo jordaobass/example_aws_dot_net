@@ -1,0 +1,12 @@
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\bin\Debug\net7.0\ExampleAws.Sqs.deps.json
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\bin\Debug\net7.0\ExampleAws.Sqs.dll
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\bin\Debug\net7.0\ExampleAws.Sqs.pdb
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.csproj.AssemblyReference.cache
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.GeneratedMSBuildEditorConfig.editorconfig
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.AssemblyInfoInputs.cache
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.AssemblyInfo.cs
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.csproj.CoreCompileInputs.cache
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.dll
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\refint\ExampleAws.Sqs.dll
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ExampleAws.Sqs.pdb
+P:\PROJETOS\NEXTTAG\exempleAws\ExampleAws.Sqs\obj\Debug\net7.0\ref\ExampleAws.Sqs.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n6RfhqSSTOVSq6Ne14NzqfQ258hL79gLvGI6eY2O7CE=",
+  "Source": "ExampleAws.Api",
+  "BasePath": "_content/ExampleAws.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

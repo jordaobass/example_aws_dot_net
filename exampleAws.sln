@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAws.Api", "ExampleAws.Api\ExampleAws.Api.csproj", "{5CC898E3-2ACA-4564-A461-137C95A4063E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAws.Sqs", "ExampleAws.Sqs\ExampleAws.Sqs.csproj", "{A4DB7DED-22F4-4D71-BEC4-DFE9BA03C5BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAws.Sns", "ExampleAws.Sns\ExampleAws.Sns.csproj", "{9F56B40D-280A-4414-A607-D4C37C4936E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC898E3-2ACA-4564-A461-137C95A4063E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC898E3-2ACA-4564-A461-137C95A4063E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC898E3-2ACA-4564-A461-137C95A4063E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC898E3-2ACA-4564-A461-137C95A4063E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DB7DED-22F4-4D71-BEC4-DFE9BA03C5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DB7DED-22F4-4D71-BEC4-DFE9BA03C5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DB7DED-22F4-4D71-BEC4-DFE9BA03C5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DB7DED-22F4-4D71-BEC4-DFE9BA03C5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F56B40D-280A-4414-A607-D4C37C4936E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F56B40D-280A-4414-A607-D4C37C4936E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F56B40D-280A-4414-A607-D4C37C4936E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F56B40D-280A-4414-A607-D4C37C4936E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
